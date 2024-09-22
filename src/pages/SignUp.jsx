@@ -60,7 +60,7 @@ const Signup = () => {
                         <input
                             type="password"
                             id="password"
-                            value={password}
+                            value={confirmPassword}
                             placeholder='Enter Password'
                             onChange={(e) => setConfirmPassword(e.target.value)}
                             className="mt-1 block w-full px-4 py-2 border text-black border-gray-300 rounded-lg shadow-sm focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm"

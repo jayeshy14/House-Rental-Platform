@@ -7,10 +7,10 @@
   display: none;
 }
 .gradient-bg-welcome {
-  background-color:#0f0e13;
+  background-color:#010525;
   background-image: 
     radial-gradient(at 0% 0%, hsla(206, 89%, 52%, 0.5) 0, transparent 50%), 
-    radial-gradient(at 50% 0%, hsla(225, 54%, 39%, 0.5) 0, transparent 50%), 
+    radial-gradient(at 50% 0%, hsla(225, 98%, 19%, 0.5) 0, transparent 50%), 
     radial-gradient(at 100% 0%, hsla(209, 89%, 48%, 0.5) 0, transparent 50%);
 }
 
