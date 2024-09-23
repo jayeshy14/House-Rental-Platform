@@ -44,7 +44,7 @@ const TenantDashboard = () => {
     };
 
     return (
-        <div className='flex flex-col text-white flex justify-around items-center pt-32'>
+        <div className='flex flex-col text-white justify-around items-center pt-32'>
             <header className="w-full">
                 <div className="max-w-7xl mx-auto py-6 px-4 sm:px-6 lg:px-8 flex justify-between items-center">
                     <h1 className="text-3xl font-bold text-gray-200">Tenant Dashboard</h1>
